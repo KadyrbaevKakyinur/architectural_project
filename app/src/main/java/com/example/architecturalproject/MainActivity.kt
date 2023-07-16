@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import com.example.architecturalproject.databinding.ActivityMainBinding
-import com.example.architecturalproject.presenter.Presenter
 
 class MainActivity : AppCompatActivity(), CounterView {
 
